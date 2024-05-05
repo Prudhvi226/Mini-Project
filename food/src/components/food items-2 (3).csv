@@ -1,0 +1,613 @@
+location,store,item,price,category
+vit,tealeaf,dum tea,10,tea
+vit,tealeaf,bellam tea,15,tea
+vit,tealeaf,ginger tea,15,tea
+vit,tealeaf,masala tea,15,tea
+vit,tealeaf,sugar less tea,10,tea
+vit,tealeaf,lemon tea,15,tea
+vit,tealeaf,ginger lemon tea,20,tea
+vit,tealeaf,badam milk,20,tea
+vit,tealeaf,kulad chai,20,tea
+vit,tealeaf,coffee,15,tea
+vit,tealeaf,green tea,15,tea
+vit,tealeaf,hot chocolate,20,tea
+vit,tealeaf,samosa,5,veg
+vit,tealeaf,egg puff,20,veg
+vit,tealeaf,veg puff,15,veg
+vit,tealeaf,fruit biscuits,8,veg
+vit,tealeaf,osmania biscuits,5,veg
+vit,tealeaf,vanila shake,60,shakes
+vit,tealeaf,chocolate shake,60,shakes
+vit,tealeaf,strawberry shake,60,shakes
+vit,tealeaf,oreo shake,60,shakes
+vit,tealeaf,kitkat shake,60,shakes
+vit,tealeaf,butterscotch shake,60,shakes
+vit,tealeaf,mango milk shake,60,shakes
+vit,tealeaf,caramel shake,60,shakes
+vit,tealeaf,rose milk,50,shakes
+vit,tealeaf,lime mint cooler,50,shakes
+vit,tealeaf,fizi mojito,55,shakes
+vit,tealeaf,cold coffee,60,shakes
+vit,tealeaf,rose milk,50,shakes
+vit,tealeaf,ginger lemon ice tea,50,shakes
+vit,tealeaf,lassi,40,shakes
+vit,tealeaf,matka lassi,50,shakes
+vit,tealeaf,mango lassi,50,shakes
+vit,maggie point,maggie,50,veg
+vit,maggie point,sweet corn35,35,veg
+vit,tiffin centre,mysore bajji,10,tiffins
+vit,tiffin centre,minpa bajji,10,tiffins
+vit,tiffin centre,uttapam,35,tiffins
+vit,tiffin centre,puri,45,tiffins
+vit,tiffin centre,chapati,40,tiffins
+vit,tiffin centre,egg chapati,50,tiffins
+vit,tiffin centre,gari,40,tiffins
+vit,lake view canteen,egg puff,25,veg
+vit,lake view canteen,veg puff,20,veg
+vit,lake view canteen,chicken puff,35,non veg
+vit,lake view canteen,chicken samosa,25,non veg
+vit,lake view canteen,chicken roll,50,non veg
+vit,lake view canteen,paneer roll,45,veg
+vit,lake view canteen,red velvet cup cake,35,cake
+vit,lake view canteen,chocolate cupcake,35,cake
+vit,lake view canteen,black forest pastry,60,cake
+vit,lake view canteen,red velvet pastry,70,cake
+vit,lake view canteen,butter scotch pastry,60,cake
+vit,lake view canteen,chocolate caramel pastry,60,cake
+vit,lake view canteen,oreo pastry,60,cake
+vit,lake view canteen,lava cake,55,cake
+vit,lake view canteen,walnet brownie,45,cake
+vit,lake view canteen,chocolate pudding,50,cake
+vit,lake view canteen,sweet corn roll,35,veg
+vit,lake view canteen,chicken kabab,60,non veg
+vit,lake view canteen,veg sandwich,80,veg
+vit,lake view canteen,junnu,35,veg
+vit,lake view canteen,coke,20,drinks
+vit,lake view canteen,fanta,20,drinks
+vit,lake view canteen,thumbsup,20,drinks
+vit,lake view canteen,artos sweet,15,drinks
+vit,lake view canteen,artos salt,15,drinks
+vit,lake view canteen,limca,20,drinks
+vit,lake view canteen,minute maid,20,drinks
+vit,tandoori,chicken shawarma,100,non veg
+vit,tandoori,chicken curry,120,non veg
+vit,tandoori,paneer curry,60,veg
+vit,tandoori,butter naan,45,veg
+vit,amul ice creams,bar,15,icecreams
+vit,amul ice creams,bar,35,icecreams
+vit,amul ice creams,cups,35,icecreams
+vit,amul ice creams,cups,45,icecreams
+vit,amul ice creams,cones,35,icecreams
+vit,amul ice creams,cones,45,icecreams
+vit,amul ice creams,cones,55,icecreams
+vit,amul ice creams,tru juice,10,juice
+vit,amul ice creams,butter milk,10,juice
+svecw,maggie point,maggie,50,veg
+svecw,yummy,fried chicken [2p],150,non veg
+svecw,yummy,chicken strips[4p],150,non veg
+svecw,yummy,chicken lollipops[5p],150,non veg
+svecw,yummy,chicken lollipops[3p],100,non veg
+svecw,yummy,chicken poppers[large],150,non veg
+svecw,yummy,chicken poppers[small],100,non veg
+svecw,yummy,chicken wings[4p],80,non veg
+svecw,yummy,chicken burger,80,non veg
+svecw,yummy,chicken sandwich,70,non veg
+svecw,yummy,veg burger,60,veg
+svecw,yummy,veg sandwich,50,veg
+svecw,yummy,corn samosa,60,veg
+svecw,yummy,french fries,80,veg
+svecw,yummy,veg balls,80,veg
+svecw,yummy,veg sticks,60,veg
+svecw,yummy,veg patty,60,veg
+svecw,yummy,myonnaise,10,veg
+svecw,central square,egg puff,25,veg
+svecw,central square,veg puff,20,veg
+svecw,central square,chicken puff,35,non veg
+svecw,central square,chicken samosa,25,non veg
+svecw,central square,chicken roll,50,non veg
+svecw,central square,paneer roll,45,veg
+svecw,central square,red velvet cup cake,35,cake
+svecw,central square,chocolate cupcake,35,cake
+svecw,central square,black forest pastry,60,cake
+svecw,central square,red velvet pastry,70,cake
+svecw,central square,butter scotch pastry,60,cake
+svecw,central square,chocolate caramel pastry,60,cake
+svecw,central square,oreo pastry,60,cake
+svecw,central square,lava cake,55,cake
+svecw,central square,walnet brownie,45,cake
+svecw,central square,chocolate pudding,50,cake
+svecw,central square,sweet corn roll,35,veg
+svecw,central square,chicken kabab,60,non veg
+svecw,central square,veg sandwich,80,veg
+svecw,central square,junnu,35,veg
+svecw,central square,coke,20,drinks
+svecw,central square,fanta,20,drinks
+svecw,central square,thumbsup,20,drinks
+svecw,central square,artos sweet,15,drinks
+svecw,central square,artos salt,15,drinks
+svecw,central square,limca,20,drinks
+svecw,central square,minute maid,20,drinks
+svecw,tiffin centre,single puri,20,tiffins
+svecw,tiffin centre,single vada,20,tiffins
+svecw,tiffin centre,mysoore bajji,30,tiffins
+svecw,tiffin centre,ravva punuku,30,tiffins
+svecw,tiffin centre,chapati,40,tiffins
+svecw,tiffin centre,egg chapati,50,tiffins
+svecw,tiffin centre,plain dosa,30,tiffins
+svecw,tiffin centre,onion dosa,35,tiffins
+svecw,tiffin centre,masala dosa,45,tiffins
+svecw,tiffin centre,ravva dosa,40,tiffins
+svecw,tiffin centre,egg dosa,50,tiffins
+svecw,tiffin centre,uttapam,40,tiffins
+svecw,tiffin centre,mirchi bajji,20,tiffins
+svecw,tiffin centre,challa punugulu,20,tiffins
+svecw,tiffin centre,onion pakoda,30,tiffins
+svecw,tiffin centre,egg bajji,20,tiffins
+svecw,tealeaf,dum tea,10,tea
+svecw,tealeaf,bellam tea,15,tea
+svecw,tealeaf,ginger tea,15,tea
+svecw,tealeaf,masala tea,15,tea
+svecw,tealeaf,sugar less tea,10,tea
+svecw,tealeaf,lemon tea,15,tea
+svecw,tealeaf,ginger lemon tea,20,tea
+svecw,tealeaf,badam milk,20,tea
+svecw,tealeaf,kulad chai,20,tea
+svecw,tealeaf,coffee,15,tea
+svecw,tealeaf,green tea,15,tea
+svecw,tealeaf,hot chocolate,20,tea
+svecw,tealeaf,samosa,5,veg
+svecw,tealeaf,egg puff,20,veg
+svecw,tealeaf,veg puff,15,veg
+svecw,tealeaf,fruit biscuits,8,tea
+svecw,tealeaf,osmania biscuits,5,tea
+svecw,tealeaf,vanila shake,60,shakes
+svecw,tealeaf,chocolate shake,60,shakes
+svecw,tealeaf,strawberry shake,60,shakes
+svecw,tealeaf,oreo shake,60,shakes
+svecw,tealeaf,kitkat shake,60,shakes
+svecw,tealeaf,butterscotch shake,60,shakes
+svecw,tealeaf,mango milk shake,60,shakes
+svecw,tealeaf,caramel shake,60,shakes
+svecw,tealeaf,rose milk,50,shakes
+svecw,tealeaf,lime mint cooler,50,shakes
+svecw,tealeaf,fizi mojito,55,shakes
+svecw,tealeaf,cold coffee,60,shakes
+svecw,tealeaf,rose milk,50,shakes
+svecw,tealeaf,ginger lemon ice tea,50,shakes
+svecw,tealeaf,lassi,40,shakes
+svecw,tealeaf,matka lassi,50,shakes
+svecw,tealeaf,mango lassi,50,shakes
+svecw,tandoori,chicken shawarma,100,non veg
+svecw,tandoori,chicken curry,120,non veg
+svecw,tandoori,paneer curry,60,veg
+svecw,tandoori,butter naan,45,veg
+svecw,amul ice creams,bar,15,icecreams
+svecw,amul ice creams,bar,35,icecreams
+svecw,amul ice creams,cups,35,icecreams
+svecw,amul ice creams,cups,45,icecreams
+svecw,amul ice creams,cones,35,icecreams
+svecw,amul ice creams,cones,45,icecreams
+svecw,amul ice creams,cones,55,icecreams
+svecw,amul ice creams,tru juice,10,icecreams
+svecw,amul ice creams,butter milk,10,icecreams
+svecw,temple square,egg puff,25,veg
+svecw,temple square,veg puff,20,veg
+svecw,temple square,chicken puff,35,non veg
+svecw,temple square,chicken samosa,25,non veg
+svecw,temple square,chicken roll,50,non veg
+svecw,temple square,paneer roll,45,veg
+svecw,temple square,red velvet cup cake,35,cake
+svecw,temple square,chocolate cupcake,35,cake
+svecw,temple square,black forest pastry,60,cake
+svecw,temple square,red velvet pastry,70,cake
+svecw,temple square,butter scotch pastry,60,cake
+svecw,temple square,chocolate caramel pastry,60,cake
+svecw,temple square,oreo pastry,60,cake
+svecw,temple square,lava cake,55,cake
+svecw,temple square,walnet brownie,45,cake
+svecw,temple square,chocolate pudding,50,cake
+svecw,temple square,sweet corn roll,35,veg
+svecw,temple square,chicken kabab,60,non veg
+svecw,temple square,veg sandwich,80,veg
+svecw,temple square,junnu,35,veg
+svecw,temple square,coke,20,drinks
+svecw,temple square,fanta,20,veg
+svecw,temple square,thumbsup,20,veg
+svecw,temple square,artos sweet,15,veg
+svecw,temple square,artos salt,15,veg
+svecw,temple square,limca,20,veg
+svecw,temple square,minute maid,20,veg
+svecw,temple square,chicken pizza,60,non veg
+svecw,temple square,aloo grilled sandwich,45,veg
+svecw,temple square,pizza sandwich,45,veg
+svecw,temple square,cheese garlic sandwich,45,veg
+svecw,temple square,paneer sandwich,50,veg
+svecw,temple square,bbq chicken sandwich,70,non veg
+svecw,temple square,chicken periperi sandwich,70,non veg
+svecw,temple square,zinger chicken sandwich,70,non veg
+svecw,temple square,tandoori chicken sandwich,70,non veg
+svecw,temple square,veg burger,60,veg
+svecw,temple square,chicken burger,80,non veg
+svecw,temple square,strawberry shake,50,shakes
+svecw,temple square,butterscotch shake,50,shakes
+svecw,temple square,vanila oreo,60,shakes
+svecw,temple square,chocolate milkshake,60,shakes
+svecw,panipuri stall,panipuri,20,veg
+svecw,panipuri stall,dahi puri,30,veg
+svecw,panipuri stall,masala puri,30,veg
+svecw,panipuri stall,chat,30,veg
+svecw,panipuri stall,mixture,35,veg
+svecw,panipuri stall,mirapakay bajji,30,veg
+svecw,panipuri stall,artikay bajji,30,veg
+svecw,panipuri stall,bajji mixture,35,veg
+svecw,juice centre,bananna,40,juice
+svecw,juice centre,kharbuja,30,juice
+svecw,juice centre,apple,45,juice
+svecw,juice centre,promogranate,45,juice
+svecw,juice centre,carrot,30,juice
+svecw,juice centre,orange,30,juice
+svecw,juice centre,pineapple,30,juice
+svecw,juice centre,grape,30,juice
+svecw,juice centre,pappaya,30,juice
+svecw,juice centre,watermelon,30,juice
+svecw,juice centre,sappota,30,juice
+svecw,juice centre,fruit salad,40,juice
+svecw,softy icecream,vanila softy,30,icecreams
+svecw,softy icecream,chocolate softy,30,icecreams
+svecw,softy icecream,mixed softy,30,icecreams
+svecw,softy icecream,vanila scoop,30,icecreams
+svecw,softy icecream,chocolate scoop,30,icecreams
+svecw,softy icecream,butterscotch scoop,30,icecreams
+svecw,softy icecream,pista scoop,30,icecreams
+svecw,softy icecream,strawberry scoop,30,icecreams
+svecw,softy icecream,americandry scoop,30,icecreams
+svecw,softy icecream,froot single,30,icecreams
+svecw,softy icecream,cashew grape single scoop,30,icecreams
+svecw,softy icecream,blackcurrent ,30,icecreams
+svecw,softy icecream,roll icecreams,30,icecreams
+svecw,franky stall,chicken frankie,75,non veg
+svecw,franky stall,paneer frankie,60,veg
+svecw,milk parlour,chittidli,20,veg
+svecw,milk parlour,cool drinks,20,drinks
+svecw,milk parlour,sweets,30,veg
+svecw,milk parlour,butter milk,10,drinks
+dental,maggie point,maggie,50,veg
+dental,juice centre,bananna,40,juice
+dental,juice centre,kharbuja,30,juice
+dental,juice centre,apple,45,juice
+dental,juice centre,promogranate,45,juice
+dental,juice centre,carrot,30,juice
+dental,juice centre,orange,30,juice
+dental,juice centre,pineapple,30,juice
+dental,juice centre,grape,30,juice
+dental,juice centre,pappaya,30,juice
+dental,juice centre,watermelon,30,juice
+dental,juice centre,sappota,30,juice
+dental,juice centre,fruit salad,40,juice
+degree,amul ice creams,bar,15,icecreams
+degree,amul ice creams,bar,35,icecreams
+degree,amul ice creams,cups,35,icecreams
+degree,amul ice creams,cups,45,icecreams
+degree,amul ice creams,cones,35,icecreams
+degree,amul ice creams,cones,45,icecreams
+degree,amul ice creams,cones,55,icecreams
+degree,amul ice creams,tru juice,10,juice
+degree,amul ice creams,butter milk,10,juice
+degree,temple square,egg puff,25,veg
+degree,temple square,veg puff,20,veg
+degree,temple square,chicken puff,35,non veg
+degree,temple square,chicken samosa,25,non veg
+degree,temple square,chicken roll,50,non veg
+degree,temple square,paneer roll,45,veg
+degree,temple square,red velvet cup cake,35,cake
+degree,temple square,chocolate cupcake,35,cake
+degree,temple square,black forest pastry,60,cake
+degree,temple square,red velvet pastry,70,cake
+degree,temple square,butter scotch pastry,60,cake
+degree,temple square,chocolate caramel pastry,60,cake
+degree,temple square,oreo pastry,60,cake
+degree,temple square,lava cake,55,cake
+degree,temple square,walnet brownie,45,cake
+degree,temple square,chocolate pudding,50,cake
+degree,temple square,sweet corn roll,35,veg
+degree,temple square,chicken kabab,60,veg
+degree,temple square,veg sandwich,80,veg
+degree,temple square,junnu,35,veg
+degree,temple square,coke,20,drinks
+degree,temple square,fanta,20,drinks
+degree,temple square,thumbsup,20,drinks
+degree,temple square,artos sweet,15,drinks
+degree,temple square,artos salt,15,drinks
+degree,temple square,limca,20,drinks
+degree,temple square,minute maid,20,drinks
+degree,temple square,chicken pizza,60,non veg
+degree,temple square,aloo grilled sandwich,45,veg
+degree,temple square,pizza sandwich,45,veg
+degree,temple square,cheese garlic sandwich,45,veg
+degree,temple square,paneer sandwich,50,veg
+degree,temple square,bbq chicken sandwich,70,non veg
+degree,temple square,chicken periperi sandwich,70,non veg
+degree,temple square,zinger chicken sandwich,70,non veg
+degree,temple square,tandoori chicken sandwich,70,non veg
+degree,temple square,veg burger,60,veg
+degree,temple square,chicken burger,80,non veg
+degree,temple square,strawberry shake,50,shakes
+degree,temple square,butterscotch shake,50,shakes
+degree,temple square,vanila oreo,60,shakes
+degree,temple square,chocolate milkshake,60,shakes
+degree,panipuri stall,panipuri,20,veg
+degree,panipuri stall,dahi puri,30,veg
+degree,panipuri stall,masala puri,30,veg
+degree,panipuri stall,chat,30,veg
+degree,panipuri stall,mixture,35,veg
+degree,panipuri stall,mirapakay bajji,30,veg
+degree,panipuri stall,artikay bajji,30,veg
+degree,panipuri stall,bajji mixture,35,veg
+degree,juice centre,bananna,40,juice
+degree,juice centre,kharbuja,30,juice
+degree,juice centre,apple,45,juice
+degree,juice centre,promogranate,45,juice
+degree,juice centre,carrot,30,juice
+degree,juice centre,orange,30,juice
+degree,juice centre,pineapple,30,juice
+degree,juice centre,grape,30,juice
+degree,juice centre,pappaya,30,juice
+degree,juice centre,watermelon,30,juice
+degree,juice centre,sappota,30,juice
+degree,juice centre,fruit salad,40,juice
+degree,softy icecream,vanila softy,30,icecreams
+degree,softy icecream,chocolate softy,30,icecreams
+degree,softy icecream,mixed softy,30,icecreams
+degree,softy icecream,vanila scoop,30,icecreams
+degree,softy icecream,chocolate scoop,30,icecreams
+degree,softy icecream,butterscotch scoop,30,icecreams
+degree,softy icecream,pista scoop,30,icecreams
+degree,softy icecream,strawberry scoop,30,icecreams
+degree,softy icecream,americandry scoop,30,icecreams
+degree,softy icecream,froot single,30,icecreams
+degree,softy icecream,cashew grape single scoop,30,icecreams
+degree,softy icecream,blackcurrent ,30,icecreams
+degree,softy icecream,roll icecreams,30,icecreams
+degree,franky stall,chicken frankie,75,non veg
+degree,franky stall,paneer frankie,60,veg
+degree,milk parlour,chittidli,20,veg
+degree,milk parlour,cool drinks,20,drinks
+degree,milk parlour,sweets,30,veg
+degree,milk parlour,butter milk,10,drinks
+5,amul ice creams,bar,15,icecreams
+diploma,amul ice creams,bar,35,icecreams
+diploma,amul ice creams,cups,35,icecreams
+diploma,amul ice creams,cups,45,icecreams
+diploma,amul ice creams,cones,35,icecreams
+diploma,amul ice creams,cones,45,icecreams
+diploma,amul ice creams,cones,55,icecreams
+diploma,amul ice creams,tru juice,10,juice
+diploma,amul ice creams,butter milk,10,drinks
+diploma,temple square,egg puff,25,veg
+diploma,temple square,veg puff,20,veg
+diploma,temple square,chicken puff,35,non veg
+diploma,temple square,chicken samosa,25,non veg
+diploma,temple square,chicken roll,50,non veg
+diploma,temple square,paneer roll,45,veg
+diploma,temple square,red velvet cup cake,35,cake
+diploma,temple square,chocolate cupcake,35,cake
+diploma,temple square,black forest pastry,60,cake
+diploma,temple square,red velvet pastry,70,cake
+diploma,temple square,butter scotch pastry,60,cake
+diploma,temple square,chocolate caramel pastry,60,cake
+diploma,temple square,oreo pastry,60,cake
+diploma,temple square,lava cake,55,cake
+diploma,temple square,walnet brownie,45,cake
+diploma,temple square,chocolate pudding,50,cake
+diploma,temple square,sweet corn roll,35,veg
+diploma,temple square,chicken kabab,60,veg
+diploma,temple square,veg sandwich,80,veg
+diploma,temple square,junnu,35,veg
+diploma,temple square,coke,20,drinks
+diploma,temple square,fanta,20,drinks
+diploma,temple square,thumbsup,20,drinks
+diploma,temple square,artos sweet,15,drinks
+diploma,temple square,artos salt,15,drinks
+diploma,temple square,limca,20,drinks
+diploma,temple square,minute maid,20,drinks
+diploma,temple square,chicken pizza,60,non veg
+diploma,temple square,aloo grilled sandwich,45,veg
+diploma,temple square,pizza sandwich,45,veg
+diploma,temple square,cheese garlic sandwich,45,veg
+diploma,temple square,paneer sandwich,50,veg
+diploma,temple square,bbq chicken sandwich,70,non veg
+diploma,temple square,chicken periperi sandwich,70,non veg
+diploma,temple square,zinger chicken sandwich,70,non veg
+diploma,temple square,tandoori chicken sandwich,70,non veg
+diploma,temple square,veg burger,60,veg
+diploma,temple square,chicken burger,80,non veg
+diploma,temple square,strawberry shake,50,shakes
+diploma,temple square,butterscotch shake,50,shakes
+diploma,temple square,vanila oreo,60,shakes
+diploma,temple square,chocolate milkshake,60,shakes
+diploma,panipuri stall,panipuri,20,veg
+diploma,panipuri stall,dahi puri,30,veg
+diploma,panipuri stall,masala puri,30,veg
+diploma,panipuri stall,chat,30,veg
+diploma,panipuri stall,mixture,35,veg
+diploma,panipuri stall,mirapakay bajji,30,veg
+diploma,panipuri stall,artikay bajji,30,veg
+diploma,panipuri stall,bajji mixture,35,veg
+diploma,juice centre,bananna,40,juice
+diploma,juice centre,kharbuja,30,juice
+diploma,juice centre,apple,45,juice
+diploma,juice centre,promogranate,45,juice
+diploma,juice centre,carrot,30,juice
+diploma,juice centre,orange,30,juice
+diploma,juice centre,pineapple,30,juice
+diploma,juice centre,grape,30,juice
+diploma,juice centre,pappaya,30,juice
+diploma,juice centre,watermelon,30,juice
+diploma,juice centre,sappota,30,juice
+diploma,juice centre,fruit salad,40,juice
+diploma,softy icecream,vanila softy,30,icecreams
+diploma,softy icecream,chocolate softy,30,icecreams
+diploma,softy icecream,mixed softy,30,icecreams
+diploma,softy icecream,vanila scoop,30,icecreams
+diploma,softy icecream,chocolate scoop,30,icecreams
+diploma,softy icecream,butterscotch scoop,30,icecreams
+diploma,softy icecream,pista scoop,30,icecreams
+diploma,softy icecream,strawberry scoop,30,icecreams
+diploma,softy icecream,americandry scoop,30,icecreams
+diploma,softy icecream,froot single,30,icecreams
+diploma,softy icecream,cashew grape single scoop,30,icecreams
+diploma,softy icecream,blackcurrent ,30,icecreams
+diploma,softy icecream,roll icecreams,30,icecreams
+diploma,franky stall,chicken frankie,75,non veg
+diploma,franky stall,paneer frankie,60,veg
+diploma,milk parlour,chittidli,20,veg
+diploma,milk parlour,cool drinks,20,drinks
+diploma,milk parlour,sweets,30,veg
+diploma,milk parlour,butter milk,10,drinks
+diploma,anapurna,single puri,20,veg
+diploma,anapurna,single vada,20,veg
+diploma,anapurna,mysoore bajji,30,veg
+diploma,anapurna,ravva punuku,30,veg
+diploma,anapurna,chapati,40,veg
+diploma,anapurna,egg chapati,50,veg
+diploma,anapurna,plain dosa,30,veg
+diploma,anapurna,onion dosa,35,veg
+diploma,anapurna,masala dosa,45,veg
+diploma,anapurna,ravva dosa,40,veg
+diploma,anapurna,egg dosa,50,veg
+diploma,anapurna,uttapam,40,veg
+diploma,anapurna,mirchi bajji,20,veg
+diploma,anapurna,challa punugulu,20,veg
+diploma,anapurna,onion pakoda,30,veg
+diploma,anapurna,egg bajji,20,veg
+diploma,anapurna,chicken friedrice,170,non veg
+diploma,anapurna,chicken biryani,170,non veg
+diploma,anapurna,veg biryani,120,veg
+diploma,anapurna,veg friedrice,100,veg
+diploma,anapurna,mixed biryani,200,non veg
+diploma,anapurna,egg biryani,160,veg
+diploma,anapurna,prawn biryani,200,non veg
+diploma,anapurna,sp biryani,190,non veg
+diploma,anapurna,panjabi biryani,200,non veg
+diploma,anapurna,egg friedrice,120,veg
+diploma,anapurna,chicken roasted friedrice,170,non veg
+diploma,anapurna,prawn friedrice,190,non veg
+diploma,anapurna,mixed friedrice,200,non veg
+diploma,anapurna,sp friedrice,190,non veg
+diploma,anapurna,veg noodles,100,veg
+diploma,anapurna,egg noodles,110,veg
+diploma,anapurna,chicken noodles,130,non veg
+diploma,anapurna,meals,76,veg
+diploma,anapurna,egg omlet single,20,veg
+diploma,anapurna,egg omlet double,35,veg
+diploma,anapurna,egg 65,100,veg
+diploma,anapurna,egg manchuria,100,veg
+diploma,anapurna,chicken 65,170,non veg
+diploma,anapurna,chicken spring roll,170,non veg
+diploma,anapurna,chicken manchuria,170,non veg
+diploma,anapurna,chicken kabab,60,non veg
+diploma,anapurna,chilli chicken,170,non veg
+diploma,anapurna,lemon chicken,170,non veg
+diploma,anapurna,peper chicken,170,non veg
+diploma,anapurna,chicken pakodi,170,non veg
+diploma,anapurna,veg manchuria,100,veg
+diploma,anapurna,veg cutlet,100,veg
+diploma,anapurna,onion pakodi,30,veg
+svecw,anapurna,single puri,20,veg
+svecw,anapurna,single vada,20,veg
+svecw,anapurna,mysoore bajji,30,veg
+svecw,anapurna,ravva punuku,30,veg
+svecw,anapurna,chapati,40,veg
+svecw,anapurna,egg chapati,50,veg
+svecw,anapurna,plain dosa,30,veg
+svecw,anapurna,onion dosa,35,veg
+svecw,anapurna,masala dosa,45,veg
+svecw,anapurna,ravva dosa,40,veg
+svecw,anapurna,egg dosa,50,veg
+svecw,anapurna,uttapam,40,veg
+svecw,anapurna,mirchi bajji,20,veg
+svecw,anapurna,challa punugulu,20,veg
+svecw,anapurna,onion pakoda,30,veg
+svecw,anapurna,egg bajji,20,veg
+svecw,anapurna,chicken friedrice,170,non veg
+svecw,anapurna,chicken biryani,170,non veg
+svecw,anapurna,veg biryani,120,veg
+svecw,anapurna,veg friedrice,100,veg
+svecw,anapurna,mixed biryani,200,non veg
+svecw,anapurna,egg biryani,160,veg
+svecw,anapurna,prawn biryani,200,non veg
+svecw,anapurna,sp biryani,190,non veg
+svecw,anapurna,panjabi biryani,200,non veg
+svecw,anapurna,egg friedrice,120,veg
+svecw,anapurna,chicken roasted friedrice,170,non veg
+svecw,anapurna,prawn friedrice,190,non veg
+svecw,anapurna,mixed friedrice,200,non veg
+svecw,anapurna,sp friedrice,190,non veg
+svecw,anapurna,veg noodles,100,veg
+svecw,anapurna,egg noodles,110,veg
+svecw,anapurna,chicken noodles,130,non veg
+svecw,anapurna,meals,76,veg
+svecw,anapurna,egg omlet single,20,veg
+svecw,anapurna,egg omlet double,35,veg
+svecw,anapurna,egg 65,100,veg
+svecw,anapurna,egg manchuria,100,veg
+svecw,anapurna,chicken 65,170,non veg
+svecw,anapurna,chicken spring roll,170,non veg
+svecw,anapurna,chicken manchuria,170,non veg
+svecw,anapurna,chicken kabab,60,non veg
+svecw,anapurna,chilli chicken,170,non veg
+svecw,anapurna,lemon chicken,170,non veg
+svecw,anapurna,peper chicken,170,non veg
+svecw,anapurna,chicken pakodi,170,non veg
+svecw,anapurna,veg manchuria,100,veg
+svecw,anapurna,veg cutlet,100,veg
+svecw,anapurna,onion pakodi,30,veg
+svecw,anapurna,single puri,20,veg
+svecw,anapurna,single vada,20,veg
+svecw,anapurna,mysoore bajji,30,veg
+svecw,anapurna,ravva punuku,30,veg
+svecw,anapurna,chapati,40,veg
+svecw,anapurna,egg chapati,50,veg
+svecw,anapurna,plain dosa,30,veg
+svecw,anapurna,onion dosa,35,veg
+svecw,anapurna,masala dosa,45,veg
+svecw,anapurna,ravva dosa,40,veg
+svecw,anapurna,egg dosa,50,veg
+svecw,anapurna,uttapam,40,veg
+svecw,anapurna,mirchi bajji,20,veg
+svecw,anapurna,challa punugulu,20,veg
+svecw,anapurna,onion pakoda,30,veg
+degree,anapurna,egg bajji,20,veg
+degree,anapurna,chicken friedrice,170,non veg
+degree,anapurna,chicken biryani,170,non veg
+degree,anapurna,veg biryani,120,veg
+degree,anapurna,veg friedrice,100,veg
+degree,anapurna,mixed biryani,200,non veg
+degree,anapurna,egg biryani,160,veg
+degree,anapurna,prawn biryani,200,non veg
+degree,anapurna,sp biryani,190,non veg
+degree,anapurna,panjabi biryani,200,non veg
+degree,anapurna,egg friedrice,120,veg
+degree,anapurna,chicken roasted friedrice,170,non veg
+degree,anapurna,prawn friedrice,190,non veg
+degree,anapurna,mixed friedrice,200,non veg
+degree,anapurna,sp friedrice,190,non veg
+degree,anapurna,veg noodles,100,veg
+degree,anapurna,egg noodles,110,veg
+degree,anapurna,chicken noodles,130,non veg
+degree,anapurna,meals,76,veg
+degree,anapurna,egg omlet single,20,veg
+degree,anapurna,egg omlet double,35,veg
+degree,anapurna,egg 65,100,veg
+degree,anapurna,egg manchuria,100,veg
+degree,anapurna,chicken 65,170,non veg
+degree,anapurna,chicken spring roll,170,non veg
+degree,anapurna,chicken manchuria,170,non veg
+degree,anapurna,chicken kabab,60,non veg
+degree,anapurna,chilli chicken,170,non veg
+degree,anapurna,lemon chicken,170,non veg
+degree,anapurna,peper chicken,170,non veg
+degree,anapurna,chicken pakodi,170,non veg
+degree,anapurna,veg manchuria,100,veg
+degree,anapurna,veg cutlet,100,veg
+degree,anapurna,onion pakodi,30,veg
