@@ -1,5 +1,3 @@
-// App.js
-
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './components/Navbar';
@@ -12,10 +10,13 @@ import Dental from './components/Dental';
 import Degree from './components/Degree';
 import Diploma from './components/Diploma';
 import VIT from './components/VIT'; // Import VIT component
+// Importing all icons
+import '@fortawesome/fontawesome-free/css/all.css';
 
-function App() {
-  const foodItems = 
-  [
+// Importing specific icons (e.g., heart icon)
+import '@fortawesome/fontawesome-free/css/regular.css'; // for regular icons
+import '@fortawesome/fontawesome-free/css/solid.css';   // for solid icons
+    const foodItems = [
     {
       "location": "vit",
       "store": "tealeaf",
@@ -4301,27 +4302,26 @@ function App() {
       "category": "veg"
     }
   ];
+
+  function App() {
+    return (
+      <Router>
+        <div className="container">
+          <Navbar />
+          <Routes>
+            <Route exact path="/" element={<Home />} />
+            <Route path="/about" element={<About />} />
+            <Route path="/contact" element={<Contact />} />
+            <Route path="/getstarted" element={<GetStarted />} />
+            <Route path="/vit" element={<VIT foodItems={foodItems} />} />
+            <Route path="/svecw" element={<SVECW foodItems={foodItems} />} />
+            <Route path="/dental" element={<Dental foodItems={foodItems} />} />
+            <Route path="/degree" element={<Degree foodItems={foodItems} />} />
+            <Route path="/diploma" element={<Diploma foodItems={foodItems} />} />
+          </Routes>
+        </div>
+      </Router>
+    );
+  }
   
-    
-
-  return (
-    <Router>
-      <div className="container">
-        <Navbar />
-        <Routes>
-          <Route exact path="/" element={<Home />} />
-          <Route path="/about" element={<About />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/getstarted" element={<GetStarted />} />
-          <Route path="/vit" element={<VIT foodItems={foodItems} />} /> {/* Pass foodItems data to VIT component */}
-          <Route path="/svecw" element={<SVECW foodItems={foodItems} />} /> {/* Pass foodItems data to VIT component */}
-          <Route path="/dental" element={<Dental foodItems={foodItems} />} /> {/* Pass foodItems data to VIT component */}
-          <Route path="/degree" element={<Degree foodItems={foodItems} />} /> {/* Pass foodItems data to VIT component */}
-          <Route path="/diploma" element={<Diploma foodItems={foodItems} />} /> {/* Pass foodItems data to VIT component */}
-        </Routes>
-      </div>
-    </Router>
-  );
-}
-
-export default App;
+  export default App;
