@@ -1,0 +1,17 @@
+.one{
+    width: 650px;
+   margin-left: 480px;
+   margin-top: 0px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.two{
+    padding: 200px;
+    background-image: url('/two.jpg');
+    background-repeat: no-repeat;
+    height:-100%;
+    margin-left: 430px;
+    margin-bottom: 20px;
+}
+.title{
+    margin-bottom: 10px;
+}
