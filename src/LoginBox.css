@@ -1,0 +1,92 @@
+/* LoginBox.css */
+
+/* Importing Roboto font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+
+/* Applying styles to the login box */
+.login-box {
+  font-family: 'Roboto', sans-serif;
+  width: 300px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #333;
+  background: #fff;
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.login-box h2 {
+  margin: 0 0 20px;
+  padding: 0;
+  font-size: 24px;
+  font-weight: 700; /* Making it bold */
+}
+
+.user-box {
+  position: relative;
+  margin-bottom: 25px;
+}
+
+.user-box input {
+  width: 100%;
+  padding: 10px 0;
+  border: none;
+  outline: none;
+  border-bottom: 1px solid #333;
+  background: transparent;
+  font-size: 16px;
+}
+
+.user-box label {
+  position: absolute;
+  top: 0;
+  left: 0;
+  padding: 10px 0;
+  font-size: 16px;
+  pointer-events: none;
+  transition: 0.5s;
+}
+
+.user-box input:focus ~ label,
+.user-box input:valid ~ label {
+  top: -20px;
+  font-size: 12px;
+  color: #2196f3;
+}
+
+button {
+  font-family: 'Roboto', sans-serif;
+  background: #2196f3;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+button:hover {
+  background: #0c7bff;
+}
+
+/* Styling for the sign-up link */
+.signup-link {
+  margin-top: 20px;
+}
+
+.signup-link p {
+  font-size: 14px;
+  text-align: center;
+}
+
+.signup-link a {
+  color: #2196f3;
+  text-decoration: none;
+}
+
+.signup-link a:hover {
+  text-decoration: underline;
+}
